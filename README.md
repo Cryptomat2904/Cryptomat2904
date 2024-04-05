@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cryptomat2904
 - 👀 I’m interested in Computers/Technology/EthicalSkills
 - 🌱 I’m currently trying to learn C/C++/Python
-- 💞️ I’m looking to collaborate on Skills of hacking and networking testing
-- 📫 How to reach me //Message me or mail me..
+- 💞️ I’m looking to collaborate on Skills of ethical hacking and network testing
+- 📫 How to reach me //Message or mail me..
 
 <!---
 Cryptomat2904/Cryptomat2904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
